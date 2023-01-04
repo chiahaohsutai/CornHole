@@ -12,5 +12,3 @@ Design and implementation of cornhole. The code uses MATLAB’s ability to graph
 Image of the game:
 
 ![Screen Shot 2021-12-23 at 6 16 51 PM](https://user-images.githubusercontent.com/89400862/147298828-47d4069f-871a-41da-b55d-dc212c0d4696.png)
-![image](https://user-images.githubusercontent.com/89400862/210665655-2d3262a4-7374-4933-aba4-9992e23ea285.png)
-
